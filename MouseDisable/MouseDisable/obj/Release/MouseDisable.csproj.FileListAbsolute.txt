@@ -1,0 +1,8 @@
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\bin\Release\MouseDisable.exe.config
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\bin\Release\MouseDisable.exe
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\bin\Release\MouseDisable.pdb
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\obj\Release\MouseDisable.MouseDisable.resources
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\obj\Release\MouseDisable.Properties.Resources.resources
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\obj\Release\MouseDisable.csproj.GenerateResource.Cache
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\obj\Release\MouseDisable.exe
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\obj\Release\MouseDisable.pdb

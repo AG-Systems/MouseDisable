@@ -1,0 +1,9 @@
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\bin\Debug\MouseDisable.exe.config
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\bin\Debug\MouseDisable.exe
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\bin\Debug\MouseDisable.pdb
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\obj\Debug\MouseDisable.csprojResolveAssemblyReference.cache
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\obj\Debug\MouseDisable.Properties.Resources.resources
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\obj\Debug\MouseDisable.csproj.GenerateResource.Cache
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\obj\Debug\MouseDisable.exe
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\obj\Debug\MouseDisable.pdb
+c:\users\holo\documents\visual studio 2013\Projects\MouseDisable\MouseDisable\obj\Debug\MouseDisable.MouseDisable.resources
