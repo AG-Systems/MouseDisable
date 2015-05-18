@@ -1,4 +1,5 @@
 **MouseDisable**
+
 Program that disables the mouse. The only way you can close it is by alt+F4 or closing in the task manager.
 
 Started working on it: May 18 2015
